@@ -130,6 +130,7 @@ _Note: This list is shared for information purposes only. OTF cannot assist with
 | Open Source Technology Improvement Fund \(OSTIF\) | [Grants](https://ostif.org/) |
 | AirVPN | [Project Support](https://airvpn.org/mission/) |
 | Library Freedom Project | [Library Freedom Institute](https://libraryfreedom.org/index.php/lfi/) |
+| Top10VPN | [Digital Rights Research Grants](https://www.top10vpn.com/research-grant/) |
 
 ## Digital Rights
 
